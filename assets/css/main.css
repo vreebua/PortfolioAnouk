@@ -4212,7 +4212,7 @@ body.is-preload #sidebar nav ul li {
 /* The Close Button */
 .close1, .close2, .close3, .close4, .close5, .close6, .close7, .close8, .close9,
 .close11, .close12, .close13, .close14, .close15, .close16, .close17, .close18, .close19,
-.close21, .close22, .close23, .close24 {
+.close21, .close22, .close23, .close24, .close25 {
     color: #2f2f2f;
     float: right;
     font-size: 28px;
@@ -4223,12 +4223,12 @@ body.is-preload #sidebar nav ul li {
 .close6:hover, .close7:hover, .close8:hover, .close9:hover, 
 .close11:hover, .close12:hover, .close13:hover, .close14:hover, .close15:hover,
 .close16:hover, .close17:hover, .close18:hover, .close19:hover, 
-.close21:hover, .close22:hover,
+.close21:hover, .close22:hover, close23:hover, .close24:hover, .close25:hover
 .close1:focus, .close2:focus, .close3:focus, .close4:focus, .close5:focus,
 .close6:focus, .close7:focus, .close8:focus, .close9:focus, 
 .close11:focus, .close12:focus, .close13:focus, .close14:focus, .close15:focus,
 .close16:focus, .close17:focus, .close18:focus, .close19:focus, 
-.close21:focus, .close22:focus, .close23:focus, .close24:focus {
+.close21:focus, .close22:focus, .close23:focus, .close24:focus, .close25:focus {
     color: rgb(179, 176, 176);
     text-decoration: none;
     cursor: pointer;
@@ -4303,7 +4303,7 @@ body.is-preload #sidebar nav ul li {
 
 #myBtn1, #myBtn2, #myBtn3, #myBtn4, #myBtn5, #myBtn6, #myBtn7, #myBtn8, #myBtn9, 
 #myBtn11, #myBtn12, #myBtn13, #myBtn14, #myBtn15, #myBtn16, #myBtn17, #myBtn18, #myBtn19, 
-#myBtn21, #myBtn22, #myBtn23, #myBtn24 {
+#myBtn21, #myBtn22, #myBtn23, #myBtn24, #myBtn25 {
 
     border: none;
     padding-left: 0;
@@ -4317,7 +4317,7 @@ body.is-preload #sidebar nav ul li {
 
 #myBtn1:hover, #myBtn2:hover, #myBtn3:hover, #myBtn4:hover, #myBtn5:hover, #myBtn6:hover, #myBtn7:hover, #myBtn8:hover, #myBtn9:hover,
 #myBtn11:hover, #myBtn12:hover, #myBtn13:hover, #myBtn14:hover, #myBtn15:hover, #myBtn16:hover, #myBtn17:hover, #myBtn18:hover, #myBtn19:hover,
-#myBtn21:hover, #myBtn22:hover, #myBtn23:hover, #myBtn24:hover {
+#myBtn21:hover, #myBtn22:hover, #myBtn23:hover, #myBtn24:hover, #myBtn25:hover {
 
     background: none;
     box-shadow: none;
@@ -4327,7 +4327,7 @@ body.is-preload #sidebar nav ul li {
 
 #myBtn1:after, #myBtn2:after, #myBtn3:after, #myBtn4:after, #myBtn5:after, #myBtn6:after, #myBtn7:after, #myBtn8:after, #myBtn9:after,
 #myBtn11:after, #myBtn12:after, #myBtn13:after, #myBtn14:after, #myBtn15:after, #myBtn16:after, #myBtn17:after, #myBtn18:after, #myBtn19:after, 
-#myBtn21:after, #myBtn22:after, #myBtn23:after, #myBtn24:after {
+#myBtn21:after, #myBtn22:after, #myBtn23:after, #myBtn24:after, #myBtn25:after {
 
     background: none;
 
