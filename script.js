@@ -161,3 +161,5 @@ openingModal(document.getElementById("myModal23"), document.getElementById("myBt
 
 openingModal(document.getElementById("myModal24"), document.getElementById("myBtn24"), document.getElementsByClassName("close24")[0])
 
+openingModal(document.getElementById("myModal25"), document.getElementById("myBtn25"), document.getElementsByClassName("close25")[0])
+
